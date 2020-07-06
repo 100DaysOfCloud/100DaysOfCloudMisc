@@ -13,3 +13,6 @@ twitter.
 <p align="center">
   <img src="https://github.com/100DaysOfCloud/100DaysOfCloudMisc/blob/master/assets/clouds-coloring-challenge.png?raw=true">
 </p>
+
+* Idea by Rishab Kumar [@rishabk7](https://twitter.com/rishabk7)
+* Designed by Christina Gorton [@coffeecraftcode](https://twitter.com/coffeecraftcode)
