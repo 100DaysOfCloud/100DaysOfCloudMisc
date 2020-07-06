@@ -10,9 +10,10 @@
 * Share your fan art by tweeting it with [#100DaysOfCloud](https://twitter.com/search?q=%23100DaysOfCloud&src=typed_query) hash tag on
 twitter.
 
+* 💡 Idea by: **Rishab Kumar** [@rishabk7](https://twitter.com/rishabk7)
+* 🎨 Designed: by **Christina Gorton** [@coffeecraftcode](https://twitter.com/coffeecraftcode)
+
 <p align="center">
   <img src="https://github.com/100DaysOfCloud/100DaysOfCloudMisc/blob/master/assets/clouds-coloring-challenge.png?raw=true">
 </p>
 
-* 💡 Idea by: **Rishab Kumar** [@rishabk7](https://twitter.com/rishabk7)
-* 🎨 Designed: by **Christina Gorton** [@coffeecraftcode](https://twitter.com/coffeecraftcode)
